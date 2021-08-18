@@ -1,0 +1,1 @@
+/* realizar un programa utilizando un ciclo while que te muestre los numeros impares existentes entre 0 y 100 */
