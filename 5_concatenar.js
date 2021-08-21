@@ -10,3 +10,15 @@ Hola mundo, mi nombre es: (tu nombre guaradado en la primera variable) y mi corr
 
 
 /* investiga que es un template string  y realiza el ejercicio anterior con una template string */
+
+//let string1 = "Elizabeth";
+//let string2 = "elysantillanmtz@gmail.com";
+
+//console.log("Hola Mundo, mi nombre es:", string1.concat());
+//console.log("Mi correo es:", string2.concat());
+
+/***********Template String***********/
+/*${expresion} permite imprimir expresiones 
+dentro de las llaves*/
+//console.log(`Hola Mundo, mi nombre es: ${string1}`);
+//console.log(`Mi correo es: ${string2}`);
