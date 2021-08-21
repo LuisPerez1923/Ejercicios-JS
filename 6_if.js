@@ -7,3 +7,14 @@ en caso contrario mandara un mensaje que diga "Tu aun no cumples la mayoria de e
 
 PLUS: mejora el codigo para que el usuario solamente pueda colocar valores entre 0 y 100
 */
+
+/*let edad = Number(prompt("Ingresa tu edad :"));
+
+if (edad >=18 && edad <=100){
+    alert("--Ya eres mayor de edad--");
+
+} else if (edad >= 0 && edad <=17){
+    alert("--Tu aun no cumples la mayoria de edad--");
+
+}*/
+

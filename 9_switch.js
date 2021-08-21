@@ -22,3 +22,33 @@ En caso de poner cualquier otra cosa mostraras en siguiente mensaje:
 Opción invalida, gracias por usar el programa
 
 */
+
+alert('-----Menu de Operaciones----- \nSeleccionar una opcion \n1.-Suma \n2.-Resta \n3.-Multiplicacion \n4.-Division \n5.Salir');
+
+let opcion = Number(prompt("Por favor selecciona una opcion"));
+
+switch(opcion){
+    case 1:
+        alert("Has seleccionado la Suma");
+        break;
+
+    case 2:
+        alert("Has seleccionado la Resta");
+        break;
+
+    case 3:
+        alert("Has seleccionado la Multiplicacion");
+        break;
+
+    case 4:
+        alert("Has seleccionado la Division")
+        break;
+    
+    case 5:
+        break;
+    
+        default:
+            alert("Opción invalida, gracias por usar el programa");
+            break;
+            
+}
